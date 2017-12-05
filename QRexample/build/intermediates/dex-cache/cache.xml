@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abc17034/Downloads/QRexample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/abc17034/Downloads/QRexample/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_d9ba2078b09e03d1d75069fd35e84f425f025b46.jar" />
+    </item>
+    <item
+        jar="/Users/abc17034/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/abc17034/Downloads/QRexample/app/build/intermediates/pre-dexed/debug/core-3.2.1_33527dd8fccfbfb0e57e7e6e4bf1a23baef115c1.jar" />
+    </item>
+    <item
+        jar="/Users/abc17034/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/abc17034/Downloads/QRexample/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_f45e8796701b933e8dd1a2bf27ec62874fc3b70a.jar" />
+    </item>
+    <item
+        jar="/Users/abc17034/Downloads/QRexample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/abc17034/Downloads/QRexample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_88f19c21064aa972592f8888bce2893fe2eda310.jar" />
+    </item>
+    <item
+        jar="/Users/abc17034/Downloads/QRexample/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/Users/abc17034/Downloads/QRexample/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.2.0_92765c169387d793ab57339a1d7d37ec174955b8.jar" />
+    </item>
+    <item
+        jar="/Users/abc17034/Downloads/QRexample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/abc17034/Downloads/QRexample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_eb60208cebd6b0f9d26641f802e646422458b3fc.jar" />
+    </item>
+    <item
+        jar="/Users/abc17034/Downloads/QRexample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/abc17034/Downloads/QRexample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_122d921493ba8d9adbe7c2b25d1c9528cda5b0d1.jar" />
+    </item>
+    <item
+        jar="/Users/abc17034/Downloads/QRexample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/abc17034/Downloads/QRexample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_423ac49ae0975962ff41a1c41adf55738de1835c.jar" />
+    </item>
+
+</items>
