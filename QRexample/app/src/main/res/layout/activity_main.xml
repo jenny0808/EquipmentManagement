@@ -18,10 +18,32 @@
         android:layout_centerHorizontal="true" />
 
     <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Scan"
+    android:id="@+id/btn_scan"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true" />
+
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Scan"
-        android:id="@+id/btn_scan"
-        android:layout_alignParentTop="true"
+        android:text="Search Bluetooth"
+        android:id="@+id/btn_searchDevices"
+        android:layout_below="@+id/txt_url"
         android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show connected devices"
+        android:id="@+id/btn_showConnectedDevices"
+        android:layout_below="@+id/btn_searchDevices"
+        android:layout_centerHorizontal="true" />
+    <ListView
+    android:id="@+id/listView_showDevice"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/btn_showConnectedDevices"
+    android:layout_marginTop="30dp" >
+    </ListView>
 </RelativeLayout>
